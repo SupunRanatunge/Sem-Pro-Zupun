@@ -1,0 +1,22 @@
+{
+  "name": "node-pro-zup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SupunRanatunge/Sem-Pro-Zupun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SupunRanatunge/Sem-Pro-Zupun/issues"
+  },
+  "homepage": "https://github.com/SupunRanatunge/Sem-Pro-Zupun#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
