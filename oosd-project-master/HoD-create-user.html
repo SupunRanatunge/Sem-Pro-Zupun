@@ -10,7 +10,32 @@
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'/>
     <meta name="viewport" content="width=device-width"/>
 
+    <style>
+        input[type=text], select {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
 
+        input[type=submit] {
+            width: 100%;
+            background-color: #1DC7EA;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+
+
+
+    </style>
     <!-- Bootstrap core CSS     -->
     <link href="css/bootstrap.min.css" rel="stylesheet"/>
 
@@ -123,35 +148,20 @@
 
         <div class="content">
             <div class="container-fluid">
+            <div>
+                <form action="#">
+                    <label for="name">First Name</label>
+                    <input type="text" id="name" name="name" placeholder="Zupun Ranatunge...">
 
-                <div class="table-responsive">
-                    <table class="table table-striped">
-                        <thead>
-                        <tr>
-
-                            <td>User name</td>
-
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td>admission number</td>
-
-                        </tr>
+                    <label for="adnumber">Admission Number</label>
+                    <input type="text" id="adnumber" name="adnumber" placeholder="150511N...">
 
 
-                        <tr>
-                            <td>e-mail</td>
 
-                        </tr>
-                        <tr>
-                            <td class="btn btn-danger btn-lg" href="#" role="button">Create user </td>
 
-                        </tr>
-                        </tbody>
-                    </table>
-                </div>
-
+                    <input type="submit" value="Create">
+                </form>
+            </div>
             </div>
         </div>
 
