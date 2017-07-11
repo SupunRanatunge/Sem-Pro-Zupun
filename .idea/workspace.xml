@@ -3,8 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="63df0fb1-cb03-4772-8043-b23b8c8aad67" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/Receptionist-contact-details.html" afterPath="$PROJECT_DIR$/oosd-project-master/Receptionist-contact-details.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/Receptionist-map.html" afterPath="$PROJECT_DIR$/oosd-project-master/Receptionist-map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/HoD-create-user.html" afterPath="$PROJECT_DIR$/oosd-project-master/HoD-create-user.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/HoD-dashboard.html" afterPath="$PROJECT_DIR$/oosd-project-master/HoD-dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/Lecturer-dashboard.html" afterPath="$PROJECT_DIR$/oosd-project-master/Lecturer-dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html" afterPath="$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html" afterPath="$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/Student-dashboard.html" afterPath="$PROJECT_DIR$/oosd-project-master/Student-dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,51 +25,51 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="55" lean-forward="false" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Receptionist-dashboard.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html">
+      <file leaf-file-name="Rep-dashboard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="58" column="21" lean-forward="false" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+            <state relative-caret-position="340">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Receptionist-create-user.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-create-user.html">
+      <file leaf-file-name="Student-dashboard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oosd-project-master/Student-dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1241">
-              <caret line="73" column="58" lean-forward="false" selection-start-line="73" selection-start-column="58" selection-end-line="73" selection-end-column="58" />
+            <state relative-caret-position="408">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Receptionist-contact-details.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-contact-details.html">
+      <file leaf-file-name="HoD-dashboard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oosd-project-master/HoD-dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="56" column="56" lean-forward="false" selection-start-line="56" selection-start-column="56" selection-end-line="56" selection-end-column="56" />
+            <state relative-caret-position="306">
+              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Receptionist-map.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-map.html">
+      <file leaf-file-name="Lecturer-dashboard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oosd-project-master/Lecturer-dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="55" column="46" lean-forward="false" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+            <state relative-caret-position="425">
+              <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -77,19 +83,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/oosd-project-master/css/custom.css" />
-        <option value="$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html" />
         <option value="$PROJECT_DIR$/oosd-project-master/Rep-map.html" />
         <option value="$PROJECT_DIR$/oosd-project-master/Rep-contact-details.html" />
         <option value="$PROJECT_DIR$/oosd-project-master/Rep-addcontact.html" />
-        <option value="$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html" />
         <option value="$PROJECT_DIR$/oosd-project-master/Receptionist-addcontact.html" />
         <option value="$PROJECT_DIR$/oosd-project-master/Receptionist-create-user.html" />
-        <option value="$PROJECT_DIR$/oosd-project-master/HoD-create-user.html" />
         <option value="$PROJECT_DIR$/oosd-project-master/Receptionist-contact-details.html" />
         <option value="$PROJECT_DIR$/oosd-project-master/Receptionist-map.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/oosd-project-master/HoD-dashboard.html" />
+        <option value="$PROJECT_DIR$/oosd-project-master/HoD-create-user.html" />
+        <option value="$PROJECT_DIR$/oosd-project-master/HoD-contact-details.html" />
+        <option value="$PROJECT_DIR$/oosd-project-master/Lecturer-dashboard.html" />
+        <option value="$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html" />
+        <option value="$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html" />
+        <option value="$PROJECT_DIR$/oosd-project-master/Student-dashboard.html" />
+        <option value="$PROJECT_DIR$/server.js" />
       </list>
     </option>
   </component>
@@ -145,6 +156,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -173,8 +186,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,12 +285,13 @@
       <option name="presentableId" value="Default" />
       <updated>1499664207436</updated>
       <workItem from="1499664208552" duration="14655000" />
-      <workItem from="1499706726156" duration="29000" />
+      <workItem from="1499706726156" duration="2590000" />
+      <workItem from="1499746918832" duration="5174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14684000" />
+    <option name="totallyTimeSpent" value="22419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -325,6 +337,46 @@
     <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
+          <caret line="58" column="21" lean-forward="false" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-create-user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" column="58" lean-forward="false" selection-start-line="73" selection-start-column="58" selection-end-line="73" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-contact-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="56" lean-forward="false" selection-start-line="56" selection-start-column="56" selection-end-line="56" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
           <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
           <folding />
         </state>
@@ -354,25 +406,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oosd-project-master/HoD-contact-details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="55" lean-forward="false" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -384,13 +421,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oosd-project-master/css/custom.css" />
-    <entry file="file://$PROJECT_DIR$/oosd-project-master/HoD-dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2713">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oosd-project-master/Rep-map.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -409,20 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="217" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="60" column="43" lean-forward="true" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oosd-project-master/HoD-create-user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="159" column="92" lean-forward="false" selection-start-line="159" selection-start-column="92" selection-end-line="159" selection-end-column="92" />
         </state>
       </provider>
     </entry>
@@ -449,18 +465,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html">
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-map.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="21" lean-forward="false" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        <state relative-caret-position="1190">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-map.html">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="55" column="46" lean-forward="false" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+        <state relative-caret-position="-136">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/HoD-create-user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/HoD-contact-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/HoD-dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/Lecturer-dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/Student-dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
