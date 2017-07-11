@@ -14,6 +14,12 @@ app.use(express.static(__dirname+ '/oosd-project-master'));
 
 io.on('connection', (socket) => {
     console.log('new user connected');
+
+    socket.on('disconnect', function() {
+        console.log('disconnected user');
+    });
+
+
 });
 
 

@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63df0fb1-cb03-4772-8043-b23b8c8aad67" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/HoD-create-user.html" afterPath="$PROJECT_DIR$/oosd-project-master/HoD-create-user.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/HoD-dashboard.html" afterPath="$PROJECT_DIR$/oosd-project-master/HoD-dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/Lecturer-dashboard.html" afterPath="$PROJECT_DIR$/oosd-project-master/Lecturer-dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html" afterPath="$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html" afterPath="$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oosd-project-master/Student-dashboard.html" afterPath="$PROJECT_DIR$/oosd-project-master/Student-dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -38,9 +31,21 @@
       <file leaf-file-name="Rep-dashboard.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rep-dashboard.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oosd-project-master/js/Rep-dashboard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,6 +82,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -98,9 +110,11 @@
         <option value="$PROJECT_DIR$/oosd-project-master/HoD-contact-details.html" />
         <option value="$PROJECT_DIR$/oosd-project-master/Lecturer-dashboard.html" />
         <option value="$PROJECT_DIR$/oosd-project-master/Receptionist-dashboard.html" />
-        <option value="$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html" />
         <option value="$PROJECT_DIR$/oosd-project-master/Student-dashboard.html" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/oosd-project-master/js/Repl-dashboard.js" />
+        <option value="$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html" />
+        <option value="$PROJECT_DIR$/oosd-project-master/js/Rep-dashboard.js" />
       </list>
     </option>
   </component>
@@ -181,6 +195,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="oosd-project-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node-Pro-Zup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node-Pro-Zup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oosd-project-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -286,12 +318,12 @@
       <updated>1499664207436</updated>
       <workItem from="1499664208552" duration="14655000" />
       <workItem from="1499706726156" duration="2590000" />
-      <workItem from="1499746918832" duration="5174000" />
+      <workItem from="1499746918832" duration="8688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22419000" />
+    <option name="totallyTimeSpent" value="25933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -513,14 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oosd-project-master/Student-dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -537,10 +561,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/Rep-dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oosd-project-master/js/Rep-dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding />
         </state>
       </provider>
