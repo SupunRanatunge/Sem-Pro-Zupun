@@ -15,6 +15,7 @@
 
     <!-- Bootstrap core CSS     -->
     <link href="css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="css/custom.css" rel="stylesheet"/>
 
     <!-- Animation library for notifications   -->
     <link href="css/animate.min.css" rel="stylesheet"/>
@@ -126,7 +127,19 @@
 
         <div class="content">
             <div class="container-fluid">
+                <table>
+                    <tr>
+                        <th>Name</th>
+                        <th>Contact</th>
+                        <th>Email</th>
+                    </tr>
+                    <tr>
+                        <td>Alfreds Futterkiste</td>
+                        <td>Maria Anders</td>
+                        <td>Germany</td>
+                    </tr>
 
+                </table>
             </div>
         </div>
 
@@ -162,7 +175,8 @@
 
 <!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
 <script src="js/demo.js"></script>
-
+<script src="/socket.io/socket.io.js"></script>
+<script src="js/Rep-contact-details.js"></script>
 <script type="text/javascript">
     $(document).ready(function () {
 

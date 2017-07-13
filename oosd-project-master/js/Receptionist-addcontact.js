@@ -15,16 +15,6 @@ function addcontact() {
         name: name,
         contact: cnt,
         email: email
-    }, function (err, res) {
-        if(err){
-            Console.log('error',err);
-        };
-        Console.log(res);
-        
     });
 
 };
-
-
-
-

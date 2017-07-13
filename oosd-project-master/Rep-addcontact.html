@@ -32,9 +32,6 @@
             cursor: pointer;
         }
 
-
-
-
     </style>
     <!-- Bootstrap core CSS     -->
     <link href="css/bootstrap.min.css" rel="stylesheet"/>
@@ -159,7 +156,8 @@
                         <label for="email">E-mail address</label>
                         <input type="text" id="email" name="email" placeholder="zupun7@gmail.com..">
 
-                        <input type="submit" value="Add contact">
+                        <!--<input id="addcnt" type="submit" value="Add contact" onclick="addcontact()">-->
+                        <button class="btn btn-info" id="addcnt" type="button" value="Add contact" onclick="addcontact()">Add Contact</button>
                     </form>
                 </div>
             </div>
@@ -197,6 +195,9 @@
 
 <!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
 <script src="js/demo.js"></script>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="js/Rep-addcontact.js"></script>
 
 <script type="text/javascript">
     $(document).ready(function () {
