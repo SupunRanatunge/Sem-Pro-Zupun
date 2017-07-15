@@ -2,7 +2,7 @@
  * Created by supun on 7/12/2017.
  */
 
-const contactController = require('./../controller/contactController.js')
+const contactController = require('./../controller/contactController.js');
 
 class RepAddContactSocket {
     constructor(io, socket) {
@@ -15,9 +15,22 @@ class RepAddContactSocket {
             });
 
         });
+        socket.on('allcontacts',(callback)=>{
+            contactController.display().then((res)=> {
+                console.log(res);
 
-    };
-}
-;
+                callback(undefined, res);
+            }, (err) => {
+                callback(err);
+            });
+
+            });
+        };
+
+
+
+
+    }
+
 
 module.exports = {RepAddContactSocket};

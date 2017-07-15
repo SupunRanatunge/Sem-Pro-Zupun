@@ -2,10 +2,20 @@
  * Created by supun on 7/12/2017.
  */
 const {mongoose} = require('./../db/mongoose');
-const {NewContact} = require('./../model/addContactmodel');
+const {Contact} = require('./../model/addContactmodel');
 
 var addcontact = (contact)=> {
-    return new NewContact(contact).save();
+    return new Contact(contact).save();
 
 };
-module.exports = {addcontact};
+
+
+var display = (contact) => {
+    console.log('controller rox');
+    return Contact.findOne(contact);
+};
+
+module.exports ={
+    addcontact,
+    display
+}

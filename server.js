@@ -1,6 +1,4 @@
 //import libraries
-
-
 const express = require('express');
 const socketIO = require('socket.io');
 
@@ -14,7 +12,8 @@ app.use(express.static(__dirname+ '/oosd-project-master'));
 var server = http.createServer(app);
 var io = socketIO(server);
 
-const {RepAddContactSocket} = require('./socket/Rep-socket');
+const {RepAddContactSocket} = require('./socket/Rep-socket.js');
+const {mapSocket} = require('./socket/map-socket');
 
 
 
@@ -22,6 +21,9 @@ io.on('connection', function(socket)  {
     console.log('new user connected');
 
     new RepAddContactSocket(io, socket);
+
+    new mapSocket(io, socket);
+
 
     socket.on('disconnect', function() {
         console.log('disconnected user');

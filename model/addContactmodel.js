@@ -1,12 +1,13 @@
 const mongoose = require('mongoose');
 
-var NewContact = mongoose.model('NewContact',{
+var Contact = mongoose.model('Contact',{
     name: {
         type:String,
         required: true
     },
     contact: {
-        type: Number
+        type: Number,
+        minlength: 10
 
     },
     email: {
@@ -14,4 +15,4 @@ var NewContact = mongoose.model('NewContact',{
     }
 });
 
-module.exports = {NewContact};
+module.exports = {Contact};

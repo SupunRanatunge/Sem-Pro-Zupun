@@ -15,6 +15,12 @@ function addcontact() {
         name: name,
         contact: cnt,
         email: email
+    }, function (err, res) {
+        if(err){
+            console.log('error', err);
+        };
+        console.log(res);
+
     });
 
 };

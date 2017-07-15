@@ -17,9 +17,9 @@ function addcontact() {
         email: email
     }, function (err, res) {
         if(err){
-            Console.log('error',err);
+            console.log('error', err);
         };
-        Console.log(res);
+        console.log(res);
         
     });
 

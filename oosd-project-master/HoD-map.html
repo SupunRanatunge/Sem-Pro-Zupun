@@ -30,6 +30,13 @@
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
     <link href="css/pe-icon-7-stroke.css" rel="stylesheet"/>
 
+    <style>
+        #map {
+            height: 500px;
+            width: 100%;
+        }
+    </style>
+
 </head>
 <body>
 
@@ -44,7 +51,7 @@
             </div>
 
             <ul class="nav">
-                <li class="active">
+                <li>
                     <a href="HoD-dashboard.html">
                         <i class="pe-7s-home"></i>
                         <p>Home</p>
@@ -54,6 +61,12 @@
                     <a href="HoD-contact-details.html">
                         <i class="pe-7s-phone"></i>
                         <p>Contact Details</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="HoD-map.html">
+                        <i class="pe-7s-map-marker"></i>
+                        <p>map</p>
                     </a>
                 </li>
                 <li>
@@ -97,8 +110,8 @@
                             </ul>
                         </li>
                         <li>
-                            <form class="navbar-form navbar-right">
-                                <input type="text" class="form-control" placeholder="Search..." >
+                            <form class="navbar-form navbar-right" id="map-search">
+                                <input type="text" class="form-control" placeholder="Search..." id="searchInput">
                             </form>
                         </li>
                     </ul>
@@ -122,7 +135,27 @@
 
         <div class="content">
             <div class="container-fluid">
+                <div id="map"></div>
+                <script>
+                    /*function initMap() {
+                        console.log("inside ");
 
+                        var UoM = {lat: 6.7969, lng: 79.9018};
+
+                        var map = new google.maps.Map(document.getElementById('map'), {
+                            zoom: 18,
+                            center: UoM
+                        });
+                        /*var marker = new google.maps.Marker({
+
+                            position: {lat:6.7969, lng:79.9018},
+                            map: map
+                        });*/
+                    }
+                </script>
+                <script async defer
+                        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDNfQP66jtI5s1QV32WNVKj9j4hbYP9_9k&callback=initMap">
+                </script>
             </div>
         </div>
 
